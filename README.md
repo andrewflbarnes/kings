@@ -1,3 +1,4 @@
 # Kings
 
-- [Redemption races](./REDEMPTION_RACES.md)
+## Race Execution
+[Redemption races](./REDEMPTION_RACES.md)  
